@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722987627 source:c:\users\alunos.rb01\desktop\automovel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
